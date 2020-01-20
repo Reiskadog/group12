@@ -59,7 +59,8 @@ h3{
 
 .content{
 
-    background-color:gray;
+    opacity: 0.85;
+    background-color: white;
     margin-top: 55px;
     border-radius: 15px;
     
