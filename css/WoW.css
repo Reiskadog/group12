@@ -1,0 +1,36 @@
+body{
+
+    background-image: url("https://cdn.hipwallpaper.com/i/99/2/DHdhGp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main{
+
+    margin-top: 10px;
+}
+
+h1{
+
+    font-family: fantasy;
+    color:white;
+}
+
+p{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+}
+
+.links{
+
+    margin-top: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+figure{
+
+    color:white;
+}
+
