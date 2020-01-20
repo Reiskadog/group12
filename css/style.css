@@ -1,3 +1,35 @@
-.container{
-    background-color: rgb(8, 8, 247);
+header > img {
+    max-width: 930px;
+}
+
+header .col-sm-3 {
+    background-color: rgb(255,255,255);
+}
+
+header .col-sm-9 {
+    border-left: 1px solid black;
+}
+
+.container {
+    background-color: rgb(255,255,255);
+    max-width: 960px;
+}
+
+footer {
+    text-align: center;
+    color: rgb(255,255,255);
+}
+
+.row {
+    margin: 0px 0px 0px 0px;
+}
+
+.col-sm-3 {
+    background-color: rgb(120,120,120);
+}
+
+.col-sm-3 > h3 {
+    padding-top:5px;
+    color: rgb(255,255,255);
+    font-weight: bold;
 }
