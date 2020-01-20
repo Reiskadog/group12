@@ -23,13 +23,13 @@ body{
 h1{
 
     font-family: fantasy;
-    color:white;
+    color:black;
 }
 
 p{
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:white;
+    color:black;
     font-size: 18px;
 }
 
@@ -43,14 +43,14 @@ p{
 
 figure{
 
-    color:white;
+    color:black;
 }
 
-nav{
+h3{
 
-   
+    text-align: right;
+    
 }
-
 
 .logo-img{
 
@@ -59,11 +59,16 @@ nav{
 
 .content{
 
-    background-color: grey;
+    background-color:gray;
     margin-top: 55px;
     border-radius: 15px;
     
-    
+}
+
+.table{
+
+    float: right;
+    width: 350px;
 }
 
 
