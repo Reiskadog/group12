@@ -1,11 +1,21 @@
-.container{
+* {
+    margin: 0;
+    padding: 0;
+  }
 
-    display: flexbox;
-    box-sizing: border-box;
-    
+.navbar{
+
+    margin-left: 2px;
+    width: 1125px;
 }
 
+.row{
 
+    width: 1125px;
+    margin-left: 1px;
+    margin-right: 1px;
+   
+}
 .main{
 
     margin-top: 10px;
@@ -41,21 +51,12 @@ h3{
 
     text-align: right;
     
-    
-}
-
-.logo-img{
-
-    margin-top: 30px;
 }
 
 .content{
 
-    opacity: 0.85;
-    background-color: grey;
-    margin-top: 55px;
-    border-radius: 15px;
-    
+    background-color: white;
+   
 }
 
 .table{
@@ -63,6 +64,7 @@ h3{
     float: right;
     width: 350px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px solid black;
 }
 
 td{
@@ -80,6 +82,40 @@ figcaption{
     font-style: italic;
     font-weight: bold;
 }
+
+.col-sm-3{
+
+    background-color: gray;
+    
+
+}
+
+.page-footer{
+
+    color:white;
+    text-align: center;
+    margin-left: 2px;
+    width: 1125px;
+}
+
+.page-header{
+
+    background-color: white;
+    width: fit-content;
+    margin-left: 1px;
+}
+
+.wowlogo{
+
+    width: 650px;
+}
+
+.row{
+
+    background-size: 100px;
+}
+
+
 
 
 
