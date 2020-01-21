@@ -1,3 +1,7 @@
+header .col-sm-3 img {
+    width: 200px;
+}
+
 header .col-sm-9 img {
     max-width: 930px;
 }
@@ -7,12 +11,14 @@ header .col-sm-3 {
     padding-bottom: 10px;
 }
 
-header .col-sm-3 img {
-    width: 200px;
-}
-
 header .col-sm-9 {
     border-left: 1px solid black;
+}
+
+header .col-sm-9 img {
+    margin-top: 6px;
+    max-height: 200px;
+    width:680px;
 }
 
 .container {
@@ -37,4 +43,10 @@ footer {
     padding-top:5px;
     color: rgb(255,255,255);
     font-weight: bold;
+}
+
+.col-sm-9 p img {
+    height:250px;
+    width:250px;
+    float: right;
 }
