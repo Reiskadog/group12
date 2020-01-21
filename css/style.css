@@ -3,8 +3,8 @@ header .col-sm-9 img {
 }
 
 header .col-sm-3 {
-    background-color: rgb(255,255,255);
-    margin-bottom: 10px;
+    background-color: rgb(120,120,120);
+    padding-bottom: 10px;
 }
 
 header .col-sm-3 img {
