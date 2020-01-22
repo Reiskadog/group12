@@ -1,5 +1,12 @@
+.container {
+    -moz-box-shadow: 0 0 5px 5px #888;
+    -webkit-box-shadow: 0 0 5px 5px#888;
+    box-shadow: 0 0 5px 5px rgb(50,50,50);
+}
+
 header .col-sm-9 img {
     max-width: 930px;
+    max-height: 210px;
 }
 
 header .col-sm-3 {
@@ -11,7 +18,7 @@ header .col-sm-3 img {
     width: 200px;
 }
 
-header .col-sm-9 {
+.col-sm-9 {
     border-left: 1px solid black;
 }
 
