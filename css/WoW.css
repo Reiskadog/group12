@@ -67,12 +67,7 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:black;
     font-size: 18px;
-}
-
-h3{
-
-    text-align: right;
-    
+    display: block;
 }
 
 .table{
@@ -91,6 +86,8 @@ td{
 .table-title{
 
     color:black;
+    text-align: right;
+    margin-right: 50px;
 }
 
 figure{
