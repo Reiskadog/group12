@@ -3,10 +3,38 @@
     padding: 0;
   }
 
+  .page-header{
+
+    background-color: white;
+    width: fit-content;
+    margin-left: 1px;
+}
+
+.wow-logo{
+
+    width: 650px;
+}
+
+
 .navbar{
 
     margin-left: 2px;
     width: 1125px;
+}
+
+.col-sm-3{
+
+    background-color: gray;
+    
+
+}
+
+.links{
+
+    margin-top: 10px;
+    font-size: 30px;
+    text-align: center;
+    color:black;
 }
 
 .row{
@@ -14,11 +42,18 @@
     width: 1125px;
     margin-left: 1px;
     margin-right: 1px;
+    background-size: 100px;
    
 }
 .main{
 
     margin-top: 10px;
+}
+
+.content{
+
+    background-color: white;
+   
 }
 
 h1{
@@ -34,29 +69,10 @@ p{
     font-size: 18px;
 }
 
-.links{
-
-    margin-top: 10px;
-    font-size: 30px;
-    text-align: center;
-    color:black;
-}
-
-figure{
-
-    color:black;
-}
-
 h3{
 
     text-align: right;
     
-}
-
-.content{
-
-    background-color: white;
-   
 }
 
 .table{
@@ -77,17 +93,16 @@ td{
     color:black;
 }
 
+figure{
+
+    color:black;
+}
+
+
 figcaption{
 
     font-style: italic;
     font-weight: bold;
-}
-
-.col-sm-3{
-
-    background-color: gray;
-    
-
 }
 
 .page-footer{
@@ -98,24 +113,11 @@ figcaption{
     width: 1125px;
 }
 
-.page-header{
+.submit{
 
-    background-color: white;
-    width: fit-content;
-    margin-left: 1px;
+    margin-bottom: 10px;
+    font-size: 15px;
 }
-
-.wowlogo{
-
-    width: 650px;
-}
-
-.row{
-
-    background-size: 100px;
-}
-
-
 
 
 
