@@ -1,129 +1,14 @@
-* {
-    margin: 0;
-    padding: 0;
-  }
-
-  .container{
-
-  }
-
-  .page-header{
-
-    background-color: white;
-    width: fit-content;
-    margin-left: 1px;
-}
-
-.wow-logo{
-
-    width: 650px;
-}
+.figcaption{
 
 
-.navbar{
-
-    margin-left: 2px;
-    width: 1125px;
-}
-
-.col-sm-3{
-
-    background-color: rgb(121, 120, 120);
-    
 
 }
-
-.links{
-
-    margin-top: 10px;
-    font-size: 30px;
-    text-align: center;
-    color:black;
-}
-
-.row{
-
-    width: 1125px;
-    margin-left: 1px;
-    margin-right: 1px;
-    background-size: 100px;
-   
-}
-.main{
-
-    margin-top: 10px;
-}
-
-.content{
-
-    background-color: white;
-   
-}
-
-h1{
-
-    font-family: fantasy;
-    color:black;
-}
-
-p{
-
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color:black;
-    font-size: 18px;
-    display: block;
-}
-
-.table{
-
-    float: right;
-    width: 350px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    border: 3px solid black;
-}
-
-td{
-
-    color:black;
-}
-
-.table-title{
-
-    color:black;
-    text-align: right;
-    margin-right: 50px;
-}
-
-figure{
-
-    color:black;
-}
-
-
-figcaption{
-
-    font-style: italic;
-    font-weight: bold;
-}
-
-.page-footer{
-
-    color:white;
-    text-align: center;
-    margin-left: 2px;
-    width: 1125px;
-}
-
 .submit{
 
     margin-bottom: 10px;
-    font-size: 15px;
 }
 
+table{
 
-
-
-    
-
-
-
+    float: right;
+}
