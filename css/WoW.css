@@ -3,6 +3,10 @@
     padding: 0;
   }
 
+  .container{
+
+  }
+
   .page-header{
 
     background-color: white;
@@ -24,7 +28,7 @@
 
 .col-sm-3{
 
-    background-color: gray;
+    background-color: rgb(121, 120, 120);
     
 
 }
@@ -64,7 +68,7 @@ h1{
 
 p{
 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color:black;
     font-size: 18px;
     display: block;
@@ -74,7 +78,7 @@ p{
 
     float: right;
     width: 350px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     border: 3px solid black;
 }
 
