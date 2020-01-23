@@ -1,51 +1,6 @@
-.container {
-    -moz-box-shadow: 0 0 5px 5px #888;
-    -webkit-box-shadow: 0 0 5px 5px#888;
-    box-shadow: 0 0 5px 5px rgb(50,50,50);
-    padding: 0px;
-}
-
-header .col-sm-3 img {
-    width: 200px;
-}
-
 header .col-sm-9 img {
-    margin-top: 6px;
-    width: 682px;
-    max-height: 204px;
-}
-
-header .col-sm-3 {
-    background-color: rgb(120,120,120);
-    padding-bottom: 10px;
-}
-
-.col-sm-9 {
-    border-left: 1px solid black;
-}
-
-.container {
-    background-color: rgb(255,255,255);
-    max-width: 960px;
-}
-
-footer {
-    text-align: center;
-    color: rgb(255,255,255);
-}
-
-.row {
-    margin: 0px 0px 0px 0px;
-}
-
-.col-sm-3 {
-    background-color: rgb(120,120,120);
-}
-
-.col-sm-3 > h3 {
-    padding-top:5px;
-    color: rgb(255,255,255);
-    font-weight: bold;
+    max-height: 205px;
+    margin-top: 5px;
 }
 
 .col-sm-9 p img {
