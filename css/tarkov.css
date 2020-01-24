@@ -1,5 +1,5 @@
-img{ 
+.imgCenter{ 
     width:90%;
     object-fit:cover;
     padding-left: 10%;
-    } 
+    }
