@@ -10,6 +10,16 @@ figcaption{
 
 .wow-logo{
 
-    margin-left: 50px;
-
+    width:80%;
+    object-fit:cover;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+.submit{
+
+    margin-bottom: 10px;
+}
+
+
